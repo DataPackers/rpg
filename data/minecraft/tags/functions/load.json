@@ -1,5 +1,6 @@
 {
     "values": [
-        "rpg:load"
+        "rpg:load",
+        "devtools:load"
     ]
 }

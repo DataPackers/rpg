@@ -1,1 +1,1 @@
- 
+function rpg:misc/tick
