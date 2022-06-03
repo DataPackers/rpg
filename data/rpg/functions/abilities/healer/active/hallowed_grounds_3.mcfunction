@@ -1,0 +1,1 @@
+execute at @s run summon area_effect_cloud ~ ~ ~ {Duration:2400,Potion:"minecraft:strong_regeneration"}

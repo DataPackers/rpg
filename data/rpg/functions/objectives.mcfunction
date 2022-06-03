@@ -1,4 +1,5 @@
 scoreboard objectives add rpg.health health
+scoreboard objectives add rpg.hunger dummy
 scoreboard objectives add rpg.death deathCount
 
 # Statuses
