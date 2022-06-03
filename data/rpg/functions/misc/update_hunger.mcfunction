@@ -1,0 +1,1 @@
+execute as @s store result score @s rpg.hunger run data get entity @s foodLevel
