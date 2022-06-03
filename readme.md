@@ -20,7 +20,7 @@
 ## Things planned for the alpha release of the Datpack:
 
 - A fully working skill system, with most skills done.
-- *List 2*
-- *List 3*
+- A custom level system
+- 5 classes to choose with each having their own powers
 - *List 4*
 - *List 5*
