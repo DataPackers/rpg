@@ -22,5 +22,5 @@ execute at @s if score @s rpg.kill_counter matches 0 run particle minecraft:clou
 # Set the Player's Countdown to the amount that was calculated.
 execute if score @s rpg.kill_counter matches 0 run scoreboard players operation @s rpg.kill_counter = $change_by rpg.kill_counter
 
-# Set changBy back to the default number.
+# Set change_by back to the default number.
 scoreboard players set $change_by rpg.kill_counter 5
