@@ -1,0 +1,1 @@
+execute as @r at @s if entity @s[scores={rpg.health=20..}] run effect give @s minecraft:luck 1 1

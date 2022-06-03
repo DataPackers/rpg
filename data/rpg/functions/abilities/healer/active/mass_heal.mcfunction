@@ -1,0 +1,2 @@
+effect give @e[distance=0..10,type=minecraft:player] minecraft:instant_health 1 1
+execute at @e[tag=rpg.healer,limit=1,sort=nearest,type=minecraft:player] positioned ~ ~1 ~ run function rpg:abilities/healer/particles/heal

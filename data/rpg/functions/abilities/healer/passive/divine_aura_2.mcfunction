@@ -1,0 +1,1 @@
+effect give @e[tag=rpg.undead,distance=0..14] minecraft:poison 1

@@ -1,0 +1,2 @@
+execute at @e[tag=rpg.healer,limit=1,sort=nearest,type=minecraft:player] positioned ~ ~1 ~ run function rpg:abilities/healer/particles/requiem
+execute as @e[tag=rpg.healer,limit=1,sort=nearest] run effect give @e[tag=rpg.undead,distance=0..10] minecraft:instant_damage 1 3
