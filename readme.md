@@ -13,7 +13,7 @@
 - **Silabear** ([**Discord**](https://discordapp.com/users/543741360478355456), [**YouTube**](https://www.youtube.com/channel/UClfoz7sNreaL9OXSqYeN6fg))
 - **wulfian** ([**Discord**](https://discordapp.com/users/554435927699619845))
 - **Jaegerwald** ([**Discord**](https://discordapp.com/users/711944262173982822), [**YouTube**](https://www.youtube.com/channel/UCmiIcpOsGlKU1Ji8iDlTVuA))
-- **Pawan Dewmina** ([**Discord**](https://discordapp.com/users/866910016535527454), [**YouTube**](https://www.youtube.com/pawandewmina)), [**2nd YouTube Channel**](https://www.youtube.com/channel/UC-1MjmwMy-XoarKwniPuu3A)) 
+- **Pawan Dewmina** ([**Discord**](https://discordapp.com/users/866910016535527454), [**YouTube**](https://www.youtube.com/pawandewmina), [**2nd YouTube Channel**](https://www.youtube.com/channel/UC-1MjmwMy-XoarKwniPuu3A)) 
 - **Mqroon** ([**Discord**](https://discordapp.com/users/561291894907207680), [**YouTube**](https://www.youtube.com/channel/UCl39RSKrhVI9lrsf0HUBNwA))
 - **DarkCode404** ([**Discord**](https://discordapp.com/users/553638302750867477))
 
