@@ -1,0 +1,1 @@
+effect give @s[scores={rpg.health=20..,rpg.hunger=20..}] minecraft:luck 1 1

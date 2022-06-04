@@ -1,0 +1,1 @@
+effect give @e[type=#rpg:undead,distance=0..14] minecraft:wither 1 1 true

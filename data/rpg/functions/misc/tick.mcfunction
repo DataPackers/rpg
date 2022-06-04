@@ -1,1 +1,0 @@
-execute as @a unless entity @s[scores={rpg.player_id=1..}] run function rpg:misc/set_player_id
