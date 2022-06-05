@@ -1,6 +1,6 @@
 # DevTools Error and Warning codes
 ## Using DevTools error / warning logging
-Using the logger is easy. It works by setting the `dev.log_warning` or `dev.log_error` scoreboard variable to the required code.
+Using the logger is easy. It works by setting the `dev.log.warning` or `dev.log.error` scoreboard variable to the required code.
 The scoreboard can be set on an entity, or on the default `dev.log` fake player.
 The log will automatically display in chat, to anyone with the tag `dev.developer`.
 

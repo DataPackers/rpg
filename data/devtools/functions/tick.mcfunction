@@ -1,1 +1,1 @@
-function devtools:log/tick
+function devtools:log/_tick
