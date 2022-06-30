@@ -1,0 +1,1 @@
+execute as @a[tag=rpg.class.rogue] run function rpg:abilities/rogue/_tick

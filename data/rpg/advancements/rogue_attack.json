@@ -1,0 +1,30 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:player_hurt_entity",
+      "conditions": {
+        "player": {
+          "nbt": "{Tags:[\"rpg.class.rogue\"]}",
+          "equipment": {
+            "mainhand": {
+              "tag": "rpg:sword"
+            }
+          }
+        },
+        "damage": {
+          "blocked": false
+        },
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {}
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "function": "rpg:abilities/rogue/passive/sneak_attack"
+  }
+}
