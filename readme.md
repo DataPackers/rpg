@@ -14,7 +14,7 @@
 - **wulfian** ([**Discord**](https://www.discordapp.com/users/554435927699619845))
 - **Jaegerwald** ([**Discord**](https://www.discordapp.com/users/711944262173982822), [**YouTube**](https://www.youtube.com/channel/UCmiIcpOsGlKU1Ji8iDlTVuA))
 - **Gears** ([**Discord**](https://www.discordapp.com/users/624197866595811328), [**Youtube**](https://www.youtube.com/channel/UCx1LKT7kN4g-Knksk3B2Kqw))
-- **Pawan Dewmina** ([**Discord**](https://www.discordapp.com/users/866910016535527454), [**YouTube**](https://www.youtube.com/pawandewmina)) 
+- **SwitchedCube** ([**Discord**](https://www.discordapp.com/users/866910016535527454), [**YouTube**](https://www.youtube.com/pawandewmina)) 
 - **Mqroon** ([**Discord**](https://www.discordapp.com/users/561291894907207680), [**YouTube**](https://www.youtube.com/channel/UCl39RSKrhVI9lrsf0HUBNwA))
 - **DarkCode404** ([**Discord**](https://www.discordapp.com/users/553638302750867477))
 
